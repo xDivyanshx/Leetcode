@@ -1,0 +1,9 @@
+# never commit your session cookie
+.env
+.leetcode_cache.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
