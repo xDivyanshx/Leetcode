@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/xDivyanshx/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/xDivyanshx/Leetcode/tree/master/0018-4sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/xDivyanshx/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/xDivyanshx/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/xDivyanshx/Leetcode/tree/master/0018-4sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Sorting
 |  |
 | ------- |
@@ -29,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/xDivyanshx/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Math
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
