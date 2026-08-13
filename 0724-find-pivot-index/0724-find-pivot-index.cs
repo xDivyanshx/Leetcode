@@ -2,32 +2,25 @@ public class Solution
 {
     public int PivotIndex(int[] nums)
     {
-        int sum = 0;
-        for (int i = 1; i < nums.Length; i++)
+        int totalSum = 0;
+        foreach (int num in nums)
         {
-            sum += nums[i];
+            totalSum += num;
         }
-        int pivot = -1;
+
         int leftSum = 0;
-        int rightSum = sum;
         for (int i = 0; i < nums.Length; i++)
         {
-            if (leftSum == rightSum)
+            // Check if the left side equals the right side algebraically
+            if (leftSum * 2 + nums[i] == totalSum)
             {
-                pivot = i;
-                break;
+                return i;
             }
-            else
-            {
-                leftSum += nums[i];
-                if (i == nums.Length - 1)
-                {
-                    rightSum = 0;
-                }
-                else
-                    rightSum -= nums[i + 1];
-            }
+
+            // Add the current number to the left sum for the next iteration
+            leftSum += nums[i];
         }
-        return pivot;
+
+        return -1;
     }
 }
