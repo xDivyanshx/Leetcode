@@ -9,11 +9,7 @@ public class Solution
             if (prices[i] == prices[i - 1] - 1)
             {
                 length++;
-                result++;
-                if (length > 2)
-                {
-                    result = result + length - 2;
-                }
+                result += (length - 1);
             }
             else
                 length = 1;
