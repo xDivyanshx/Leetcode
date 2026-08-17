@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/xDivyanshx/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/xDivyanshx/Leetcode/tree/master/0018-4sum) |
 | [0724-find-pivot-index](https://github.com/xDivyanshx/Leetcode/tree/master/0724-find-pivot-index) |
+| [1563-stone-game-v](https://github.com/xDivyanshx/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/xDivyanshx/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/xDivyanshx/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/xDivyanshx/Leetcode/tree/master/1563-stone-game-v) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Sliding Window
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/xDivyanshx/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
