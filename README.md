@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/xDivyanshx/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/xDivyanshx/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/xDivyanshx/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
