@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/xDivyanshx/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/xDivyanshx/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/xDivyanshx/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/xDivyanshx/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/xDivyanshx/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/xDivyanshx/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Hash Table
+|  |
+| ------- |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/xDivyanshx/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 <!---LeetCode Topics End-->
