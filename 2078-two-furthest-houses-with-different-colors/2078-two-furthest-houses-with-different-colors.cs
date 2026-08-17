@@ -2,22 +2,27 @@ public class Solution
 {
     public int MaxDistance(int[] colors)
     {
-        Dictionary<int, int> startingPointMap = [];
+        int n = colors.Length;
+        int maxDist = 0;
 
-        int maxDist = -1;
-
-        for (int i = 0; i < colors.Length; i++)
+        // Scenario 1: Fix the first house, find the furthest different house from the right
+        for (int i = n - 1; i >= 0; i--)
         {
-            startingPointMap.TryAdd(colors[i], i);
-
-            foreach (KeyValuePair<int, int> kvp in startingPointMap)
+            if (colors[i] != colors[0])
             {
-                if (kvp.Key != colors[i])
-                {
-                    int dist = i - kvp.Value;
-                    if (dist > maxDist)
-                        maxDist = dist;
-                }
+                maxDist = i; // Distance from 0 to i is just i
+                break;       // We found the furthest, no need to keep checking
+            }
+        }
+
+        // Scenario 2: Fix the last house, find the furthest different house from the left
+        for (int i = 0; i < n; i++)
+        {
+            if (colors[i] != colors[n - 1])
+            {
+                int dist = (n - 1) - i;
+                maxDist = Math.Max(maxDist, dist);
+                break;       // We found the furthest, no need to keep checking
             }
         }
 
