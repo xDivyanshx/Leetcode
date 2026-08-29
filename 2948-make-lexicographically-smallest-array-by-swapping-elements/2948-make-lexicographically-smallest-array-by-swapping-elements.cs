@@ -13,20 +13,14 @@ public class Solution
             indexListMap[nums[i]].Add(i);
         }
         nums.Sort();
-        List<int> currentBucket = new List<int>();
-        currentBucket.Add(nums[0]);
+        List<int> currentBucket = [nums[0]];
         for (int i = 1; i < nums.Length; i++)
         {
-
             int range = nums[i] - nums[i - 1];
             if (range > limit)
             {
-                List<int> tempBucket = new List<int>();
-                foreach (int x in currentBucket)
-                    tempBucket.Add(x);
-                bucketList.Add(tempBucket);
-                currentBucket = new List<int>();
-                currentBucket.Add(nums[i]);
+                bucketList.Add(currentBucket);
+                currentBucket = [nums[i]];
             }
             else
             {
@@ -34,39 +28,38 @@ public class Solution
             }
 
         }
-
         if (currentBucket.Count > 0)
             bucketList.Add(currentBucket);
 
-        List<List<int>> bucketIndex = new List<List<int>>();
+        List<List<int>> indexAccordingToBucketList = new List<List<int>>();
         for (int i = 0; i < bucketList.Count; i++)
         {
-            List<int> bucketNow = bucketList[i];
-            List<int> bucketindexList = new List<int>();
-            for (int y = 0; y < bucketNow.Count; y++)
+            List<int> bucket = bucketList[i];
+            List<int> indexAccordingToBucket = new List<int>();
+            for (int y = 0; y < bucket.Count; y++)
             {
                 if (y == 0)
                 {
-                    bucketindexList.AddRange(indexListMap[bucketNow[y]]);
+                    indexAccordingToBucket.AddRange(indexListMap[bucket[y]]);
                 }
-                else if (y > 0 && bucketNow[y] != bucketNow[y - 1])
+                else if (y > 0 && bucket[y] != bucket[y - 1])
                 {
-                    bucketindexList.AddRange(indexListMap[bucketNow[y]]);
+                    indexAccordingToBucket.AddRange(indexListMap[bucket[y]]);
                 }
             }
-            bucketindexList.Sort();
-            bucketIndex.Add(bucketindexList);
+            indexAccordingToBucket.Sort();
+            indexAccordingToBucketList.Add(indexAccordingToBucket);
         }
 
         int[] result = new int[nums.Length];
 
         for (int i = 0; i < bucketList.Count; i++)
         {
-            List<int> bucketNow = bucketList[i];
-            List<int> indexNow = bucketIndex[i];
-            for (int j = 0; j < bucketNow.Count; j++)
+            List<int> bucket = bucketList[i];
+            List<int> index = indexAccordingToBucketList[i];
+            for (int j = 0; j < bucket.Count; j++)
             {
-                result[indexNow[j]] = bucketNow[j];
+                result[index[j]] = bucket[j];
             }
         }
         return result;
