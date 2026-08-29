@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/xDivyanshx/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/xDivyanshx/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/xDivyanshx/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xDivyanshx/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/xDivyanshx/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/xDivyanshx/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/xDivyanshx/Leetcode/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xDivyanshx/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/xDivyanshx/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xDivyanshx/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/xDivyanshx/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
