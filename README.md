@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/xDivyanshx/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/xDivyanshx/Leetcode/tree/master/0018-4sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/xDivyanshx/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xDivyanshx/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/xDivyanshx/Leetcode/tree/master/0724-find-pivot-index) |
 | [1563-stone-game-v](https://github.com/xDivyanshx/Leetcode/tree/master/1563-stone-game-v) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/xDivyanshx/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/xDivyanshx/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
