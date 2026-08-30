@@ -2,14 +2,20 @@ public class Solution
 {
     public int MinimumDeletions(int[] nums)
     {
-        int left = 0;
-        int right = nums.Length - 1;
+        int length = nums.Length;
+        
+        if (length <= 2)
+        {
+            return length;
+        }
+
         int minElement = nums[0];
         int maxElement = nums[0];
         int minIndex = 0;
         int maxIndex = 0;
-        int total = 0;
-        for (int i = 1; i < nums.Length; i++)
+
+        // 1. Single pass to find the exact indices
+        for (int i = 1; i < length; i++)
         {
             if (nums[i] > maxElement)
             {
@@ -22,43 +28,19 @@ public class Solution
                 minIndex = i;
             }
         }
-        bool minRemoved = false;
-        bool maxRemoved = false;
-        while (true)
-        {
-            if (minRemoved && maxRemoved)
-                break;
-            int minSize = Math.Min(minIndex - left, right - minIndex);
-            int maxSize = Math.Min(maxIndex - left, right - maxIndex);
-            if ((!minRemoved && minSize <= maxSize) || maxRemoved)
-            {
-                if (minIndex - left < right - minIndex)
-                {
-                    total += minIndex - left + 1;
-                    left = minIndex + 1;
-                }
-                else
-                {
-                    total += right - minIndex + 1;
-                    right = minIndex - 1;
-                }
-                minRemoved = true;
-            }
-            else if ((!maxRemoved && minSize > maxSize) || minRemoved)
-            {
-                if (maxIndex - left < right - maxIndex)
-                {
-                    total += maxIndex - left + 1;
-                    left = maxIndex + 1;
-                }
-                else
-                {
-                    total += right - maxIndex + 1;
-                    right = maxIndex - 1;
-                }
-                maxRemoved = true;
-            }
-        }
-        return total;
+
+        // 2. Identify the left-most and right-most target indices
+        int index1 = Math.Min(minIndex, maxIndex);
+        int index2 = Math.Max(minIndex, maxIndex);
+
+        // 3. Calculate the three possible removal strategies
+        int removeFromFront = index2 + 1;
+        int removeFromBack = length - index1;
+        int removeBothSides = (index1 + 1) + (length - index2);
+
+        // 4. Return the most efficient path
+        int minDeletions = Math.Min(removeFromFront, Math.Min(removeFromBack, removeBothSides));
+
+        return minDeletions;
     }
 }
