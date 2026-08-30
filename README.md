@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/xDivyanshx/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/xDivyanshx/Leetcode/tree/master/0724-find-pivot-index) |
 | [1563-stone-game-v](https://github.com/xDivyanshx/Leetcode/tree/master/1563-stone-game-v) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/xDivyanshx/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/xDivyanshx/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/xDivyanshx/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
