@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/xDivyanshx/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/xDivyanshx/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3612-process-string-with-special-operations-i](https://github.com/xDivyanshx/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xDivyanshx/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/xDivyanshx/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Union-Find
 |  |
 | ------- |
