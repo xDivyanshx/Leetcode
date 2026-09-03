@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/xDivyanshx/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/xDivyanshx/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/xDivyanshx/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/xDivyanshx/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/xDivyanshx/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/xDivyanshx/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/xDivyanshx/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/xDivyanshx/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
