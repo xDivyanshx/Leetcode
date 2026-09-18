@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/xDivyanshx/Leetcode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xDivyanshx/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1563-stone-game-v](https://github.com/xDivyanshx/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
@@ -171,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/xDivyanshx/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/xDivyanshx/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/xDivyanshx/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
