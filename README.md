@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/xDivyanshx/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/xDivyanshx/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/xDivyanshx/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/xDivyanshx/Leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xDivyanshx/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1563-stone-game-v](https://github.com/xDivyanshx/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/xDivyanshx/Leetcode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -109,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/xDivyanshx/Leetcode/tree/master/0292-nim-game) |
 | [1563-stone-game-v](https://github.com/xDivyanshx/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/xDivyanshx/Leetcode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -200,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/xDivyanshx/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/xDivyanshx/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/xDivyanshx/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
