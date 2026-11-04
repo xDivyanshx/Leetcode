@@ -3,12 +3,22 @@ public class Solution {
         if (num < 0)
             return false;
 
-        for (int i = 1; i <= num / i; i++)
+        long left = 0, right = num;
+
+        while (left <= right)
         {
-            if (i * i == num)
+            long mid = left + (right - left) / 2;
+            long square = mid * mid;
+
+            if (square == num)
                 return true;
+
+            if (square < num)
+                left = mid + 1;
+            else
+                right = mid - 1;
         }
 
-        return num == 0;
+        return false;
     }
 }
