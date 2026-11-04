@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/xDivyanshx/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/xDivyanshx/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/xDivyanshx/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/xDivyanshx/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xDivyanshx/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1563-stone-game-v](https://github.com/xDivyanshx/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/xDivyanshx/Leetcode/tree/master/2029-stone-game-ix) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/xDivyanshx/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/xDivyanshx/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/xDivyanshx/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/xDivyanshx/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/xDivyanshx/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Trie
 |  |
